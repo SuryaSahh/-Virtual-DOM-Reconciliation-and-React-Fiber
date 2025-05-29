@@ -56,7 +56,8 @@ If you change:
 <h1>Hello</h1>
 to
 <h1>Hi</h1> 
-**React won’t re-render the entire DOM, only the text content inside <h1>.**
+
+React won’t re-render the entire DOM, only the text content inside <h1>.
 
 ---
 
